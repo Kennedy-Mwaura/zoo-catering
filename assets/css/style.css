@@ -1,1 +1,27 @@
 /* Your custom styles */
+html,
+body,
+header,
+
+.jarallax {
+  height: 100%;
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #7d8488 !important;
+  }
+
+  .navbar {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12) !important;
+  }
+}
+
+.blockquote.b-reverse {
+
+  padding-right: 1rem;
+  padding-left: 0;
+  text-align: right;
+  border-right: .25rem solid #eceeef;
+  border-left: 0;
+}
