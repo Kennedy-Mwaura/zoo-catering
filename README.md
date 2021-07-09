@@ -1,5 +1,5 @@
 # zoo-catering
-Html page for zoo catering company as part of prep week 1'
+Static page for zoo catering company as part of Moringa prep week 1 content. 
 
 
 ## Problem Statement
